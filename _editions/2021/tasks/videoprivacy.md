@@ -7,7 +7,7 @@ hide: true
 # required info
 title: "In-Car Driver Video Privacy"
 subtitle: 
-blurb: "Insert blurb here, keep it between the quotes in order to handle any special characters"
+blurb: "test"
 ---
 
 <!-- # please respect the structure below-->
